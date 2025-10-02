@@ -1,0 +1,1 @@
+give @p enderman_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Invisible:1b,Tags:["checkpoint.delete"]},display:{Name:'{"text":"Checkpoint Removal Egg","italic":false}'}} 1

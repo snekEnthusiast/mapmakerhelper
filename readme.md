@@ -44,6 +44,8 @@ A simple way to create checkpoints, setting a spawnpoint + creating a field gran
 
 `/function checkpoint/interface/giveegg` - call to give player a checkpoint spawn egg
 
+`/function checkpoint/interface/givedeleteegg` - call to give player a checkpoint removal egg. use it near a checkpoint to remove it.
+
 ### Various Throwables 
 
 One time use ranged consumables. Throwing knives that deal damage, give slowness, explode, or even disable AI (planned)
