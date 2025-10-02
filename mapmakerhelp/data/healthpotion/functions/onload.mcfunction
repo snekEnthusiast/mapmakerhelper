@@ -1,0 +1,2 @@
+scoreboard objectives add healthpotion.max_stacks dummy
+scoreboard objectives add healthpotion.current_stacks dummy

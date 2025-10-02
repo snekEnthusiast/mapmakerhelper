@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "mbowshot": {
+      "trigger": "minecraft:shot_crossbow",
+      "conditions": {
+        "item": {
+          "nbt": "{mbow:1b}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "machinebow:onmbowshot"
+  },
+  "sends_telemetry_event": false
+}

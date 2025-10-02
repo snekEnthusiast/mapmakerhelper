@@ -1,0 +1,1 @@
+summon armor_stand ~ ~ ~ {Invisible:1b,Invulnerable:1b,CustomNameVisible:1b,CustomName:'{"text":"checkpoint"}',Tags:["checkpoint.checkpoint"]}

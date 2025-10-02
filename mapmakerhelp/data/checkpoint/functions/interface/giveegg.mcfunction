@@ -1,0 +1,1 @@
+give @p wolf_spawn_egg{EntityTag:{id:"minecraft:armor_stand",Invulnerable:1b,Invisible:1b,CustomNameVisible:1b,CustomName:'{"text":"checkpoint"}',Tags:["checkpoint.checkpoint"]},display:{Name:'{"text":"Checkpoint Spawn Egg","italic":false}'}} 1

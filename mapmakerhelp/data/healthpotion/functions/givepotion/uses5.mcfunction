@@ -1,0 +1,1 @@
+give @p potion{display:{Name:'{"text":"health potion: 5","color":"red","italic":false}'},Potion:"minecraft:strong_healing",healthpotion:1b} 1

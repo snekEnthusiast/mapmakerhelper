@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "jetpot": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "nbt": "{jetpotion:1b}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "jetpotion:onjetuse"
+  }
+}

@@ -1,0 +1,1 @@
+$data modify storage coordstorage coordlist[$(i)].locked set value 0b

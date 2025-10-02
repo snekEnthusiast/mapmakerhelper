@@ -1,0 +1,1 @@
+give @p potion{display:{Name:'{"text":"Potion of Jet","italic":false}',Lore:['{"text":"Explosive Propulsion X","color":"dark_red","italic":false}']},HideFlags:32,jetpotion:1b,CustomPotionColor:16723717} 1

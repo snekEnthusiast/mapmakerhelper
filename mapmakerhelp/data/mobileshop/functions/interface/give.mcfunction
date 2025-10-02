@@ -1,0 +1,1 @@
+give @p emerald{display:{Name:'{"text":"Mobile Shop Key","italic":false}',Lore:['{"text":"Just Right Click!","italic":false}']},mobileshop:1b,Enchantments:[{}]} 1

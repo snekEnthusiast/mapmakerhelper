@@ -1,0 +1,1 @@
+give @p snowball{throwable:{slow:1b},display:{Name:'{"text":"Slowness Tipped Knife","italic":false}'}}

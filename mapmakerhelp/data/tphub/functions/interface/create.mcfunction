@@ -1,0 +1,1 @@
+$data modify storage coordstorage coordlist append value {name:$(name),locked:0b,x:$(x),y:$(y),z:$(z)}

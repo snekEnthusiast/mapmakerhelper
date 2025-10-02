@@ -1,0 +1,1 @@
+give @p snowball{throwable:{explosive:1b},display:{Name:'{"text":"Explosive","italic":false}'}}

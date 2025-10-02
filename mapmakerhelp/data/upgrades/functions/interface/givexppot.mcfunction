@@ -1,0 +1,1 @@
+give @p potion{display:{Name:'{"text":"Potion of Experience","italic":false}',Lore:['{"text":"Experience I","color":"blue","italic":false}']},HideFlags:32,xppotion:1b,CustomPotionColor:442112} 1

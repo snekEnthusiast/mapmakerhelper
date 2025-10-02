@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "potion_use": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "nbt": "{healthpotion:1b}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "healthpotion:onpotionuse"
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "xppotionuse": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{xppotion:1b}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "upgrades:onxppotionuse"
+  },
+  "sends_telemetry_event": false
+}

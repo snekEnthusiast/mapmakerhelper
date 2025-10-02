@@ -1,0 +1,14 @@
+{
+  "function": "minecraft:copy_nbt",
+  "source": {
+    "type": "minecraft:storage",
+    "source": "minecraft:tempstorage"
+  },
+  "ops": [
+    {
+      "source": "machinebow.ammo",
+      "target": "machinebow.ammo",
+      "op": "replace"
+    }
+  ]
+}

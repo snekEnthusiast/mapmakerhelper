@@ -1,0 +1,11 @@
+{
+    "values": [
+        "common:createscoreboards",
+        "healthpotion:onload",
+        "machinebow:onload",
+        "goldenvow:onload",
+        "upgrades:onload",
+        "jetpotion:onload",
+        "mobileshop:onload"
+    ]
+}

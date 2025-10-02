@@ -1,0 +1,1 @@
+only possible in 1.21.4+ since input checking with predicates is possible.

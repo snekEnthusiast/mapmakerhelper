@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "datapack with various utilities to easily create adventure/ctm maps",
+        "pack_format": 18
+    }
+}

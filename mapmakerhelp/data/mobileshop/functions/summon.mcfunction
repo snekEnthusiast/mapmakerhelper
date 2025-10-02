@@ -1,0 +1,1 @@
+summon villager ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,NoAI:1b,CanPickUpLoot:0b,Tags:["mobileshop"],active_effects:[{id:"minecraft:invisibility",amplifier:0b,duration:999999999,show_particles:0b}],Offers:{Recipes:[{rewardExp:0b,buy:{id:"minecraft:red_bed",Count:1b},buyB:{id:"minecraft:stone",Count:1b},sell:{id:"minecraft:bedrock",Count:1b}}]},Team:mobileshop.nocolission}

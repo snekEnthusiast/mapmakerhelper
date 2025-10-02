@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "entityhit": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "source_entity": {
+            "nbt": "{isexplosive:1b}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "throwables:onexplosivehit"
+  },
+  "sends_telemetry_event": false
+}

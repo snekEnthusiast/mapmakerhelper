@@ -1,0 +1,12 @@
+{
+    "values": [
+        "machinebow:ontick",
+        "goldenvow:ontick",
+        "checkpoint:ontick",
+        "throwables:ontick",
+        "upgrades:ontick",
+        "dynamiclight:ontick",
+        "jetpotion:ontick",
+        "mobileshop:ontick"
+    ]
+}

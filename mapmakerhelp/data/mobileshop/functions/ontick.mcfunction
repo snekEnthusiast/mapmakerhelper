@@ -1,0 +1,2 @@
+execute at @a[predicate=mobileshop:shopinhand] unless entity @e[tag=mobileshop,distance=..1] run function mobileshop:summon
+execute as @e[tag=mobileshop] at @s unless entity @a[distance=..1,predicate=mobileshop:shopinhand] run kill @s

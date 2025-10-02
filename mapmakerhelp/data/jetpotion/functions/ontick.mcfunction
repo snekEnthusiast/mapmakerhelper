@@ -1,0 +1,1 @@
+scoreboard players remove @a[scores={jet.cooldown=1..}] jet.cooldown 1

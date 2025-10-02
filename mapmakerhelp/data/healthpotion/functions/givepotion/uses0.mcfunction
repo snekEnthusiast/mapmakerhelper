@@ -1,0 +1,1 @@
+give @p glass_bottle{display:{Name:'{"text":"health potion: 0","color":"red","italic":false}'},healthpotion:1b} 1

@@ -1,0 +1,1 @@
+$tellraw @p {"text":"-$(name)","italic":false,"clickEvent":{"action":"run_command","value":"/function tphub:teleportat {\"x\":$(x),\"y\":$(y),\"z\":$(z)}"}}
