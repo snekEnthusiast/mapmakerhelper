@@ -13,7 +13,7 @@ A multiple use health potion with variable amount of charges, up to 8 currently.
 
 `/function healthpotion/interface/refill` - call as player to refill their health potions
 
-`//function healthpotion/interface/giverefillpotion` - call as player to give them a hp potion refill consummable
+`/function healthpotion/interface/giverefillpotion` - call as player to give them a hp potion refill consummable
 
 ### Machinebows
 
@@ -25,9 +25,11 @@ Currently custom magazines are easy to implement, simply change the `machinebow.
 
 `/function machinebow/interface/givebasic` - call as player to give them a basic machinebow
 
-#### future
+`/function machinebow/interface/giveartemis` - call as player to give them a machinebow which fires "bullets"
 
-Plans for various possible upgrades are planned (arrows unaffected by gravity, flying fast, different ammo types)
+`/function machinebow/interface/givefirebrand` - call as player to give them a machinebow which fires fireballs
+
+`/function machinebow/interface/giveabyss` - call as player to give them a machinebow that fires wither skulls. Visual bug occur, unfortunately
 
 ### Golden Vow Shield
 
