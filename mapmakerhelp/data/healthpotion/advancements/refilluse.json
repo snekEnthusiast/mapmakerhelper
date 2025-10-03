@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "hpprefilluse": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "nbt": "{healthpotrefill:1b}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "healthpotion:onrefilluse"
+  }
+}

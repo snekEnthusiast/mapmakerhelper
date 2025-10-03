@@ -1,0 +1,1 @@
+give @p potion{display:{Name:'{"text":"Replenishing Potion","italic":false}',Lore:['{"text":"Replenishes Health Potion Charges","color":"dark_aqua","italic":false}']},HideFlags:32,healthpotrefill:1b,Enchantments:[{}],CustomPotionColor:524543} 1
