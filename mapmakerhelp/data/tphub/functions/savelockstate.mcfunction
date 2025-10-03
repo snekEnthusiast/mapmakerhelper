@@ -1,0 +1,1 @@
+$execute store result score tphub.islocked tempstorage run data get storage coordstorage coordlist[$(i)].locked
