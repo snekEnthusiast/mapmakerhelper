@@ -1,0 +1,1 @@
+give @p wolf_spawn_egg{EntityTag:{id:"minecraft:bat",Invulnerable:1b,CustomNameVisible:1b,Tags:["lockpick.lockremover"]},display:{Name:'{"text":"Unlock Spawn Egg","italic":false}'}} 1

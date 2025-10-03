@@ -136,6 +136,14 @@ This is easily done by teleporting an invisible villager in right click range wh
 
 Experimental and disabled by default, would hide saturation and use food to restore hp directly
 
-### Lockpick System (concept phase)
+### Lockpick System
 
-locking a chest would be easy, but unlocking is non-trivial
+A system with which chests can be locked, unlocked and lockpicked, with lockpicking having a 30% (easy to change in predicate) chance to fail and break the lockpick.
+
+#### interface
+
+`/function lockpick/interface/givelocker` - gives 'locking egg', when SHIFT+right click'ed on top of a chest will lock it
+
+`/function lockpick/interface/givelockremover` - gives lock remover egg. Works like locking egg, except removes lock
+
+`/function lockpick/interface/givelockpick` - gives lockpick

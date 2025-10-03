@@ -1,0 +1,1 @@
+give @p tripwire_hook{lockpick:1b,display:{Name:'{"text": "lockpick","italic":false}'}}

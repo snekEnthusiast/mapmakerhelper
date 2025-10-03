@@ -6,6 +6,7 @@
         "goldenvow:onload",
         "upgrades:onload",
         "jetpotion:onload",
-        "mobileshop:onload"
+        "mobileshop:onload",
+        "lockpick:onload"
     ]
 }

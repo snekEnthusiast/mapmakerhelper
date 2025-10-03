@@ -1,0 +1,1 @@
+scoreboard objectives add lockpick.openchest minecraft.custom:minecraft.open_chest

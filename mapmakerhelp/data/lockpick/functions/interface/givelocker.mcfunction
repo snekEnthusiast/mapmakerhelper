@@ -1,0 +1,1 @@
+give @p bat_spawn_egg{EntityTag:{id:"minecraft:bat",Invulnerable:1b,CustomNameVisible:1b,Tags:["lockpick.lockmaker"]},display:{Name:'{"text":"Lock Spawn Egg","italic":false}'}} 1
