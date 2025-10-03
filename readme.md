@@ -10,7 +10,9 @@ A multiple use health potion with variable amount of charges, up to 8 currently.
 
 #### Interface
 `/function healthpotion/interface/increasesize` - call as player to increase their capacity
+
 `/function healthpotion/interface/refill` - call as player to refill their health potions
+
 `//function healthpotion/interface/giverefillpotion` - call as player to give them a hp potion refill consummable
 
 ### Machinebows
@@ -42,7 +44,9 @@ A simple way to create checkpoints, setting a spawnpoint + creating a field gran
 #### interface
 
 `/function checkpoint/interface/summon` - call to spawn a checkpoint wherever you are
+
 `/function checkpoint/interface/giveegg` - call to give player a checkpoint spawn egg
+
 `/function checkpoint/interface/givedeleteegg` - call to give player a checkpoint removal egg. use it near a checkpoint to remove it.
 
 ### Various Throwables 
@@ -53,7 +57,9 @@ Note: in this version explosives only explode when hitting the ground, not mobs
 #### interface
 
 `/function throwables/interface/giveknife` - call as player to give them a throwing knife
+
 `/function throwables/interface/giveslowknife` - call as player to give them a throwing knife that inflicts slowness X for 20 seconds
+
 `/function throwables/interface/giveexplosive` - call as player to give them an explosive that detonates when hitting the ground (recommending mobGriefing to be off)
 
 ### Upgrade System
@@ -65,6 +71,7 @@ A way for players to exchange xp for various upgrades (effect immunity, increase
 #### interface
 
 `/function upgrades/interface/show` - call as player to show them the shop
+
 `/function upgrades/interface/givexppotion` - call as player to give them a potion granting 1 xp level
 
 ### Dynamic Lighting
@@ -80,14 +87,20 @@ A tool for creating a teleportation system
 
 #### interface
 
-these functions use the macro system. To use them you must fill a storage `/data modify storage <storagename> <path>...` with 'passed values', then call `/function <functionpath> with <storagename>` to use them
+these functions use the macro system. To use them you must fill a storage `/data modify storage <storagename> <path>...` with 'passed values', then call `/function <functionpath> with <storagename>` or use `/function <functionpath> <data>` with <data> in json format to use them
 
 `/function tphub/interface/callteleport` - pass value `i` to teleport player to `i`-th saved position
+
 `/function tphub/interface/create` - pass values `x`,`y`,`z`,`name` to save a position under these coordinates, under the given name
+
 `/function tphub/interface/lock` - pass `i` to lock `i-th` position
+
 `/function tphub/interface/unlock` - pass `i` to unlock `i-th` position
+
 `/function tphub/interface/list` - call as player to show them a list of unlocked positions
+
 `/function tphub/interface/quickpoint {"name":<name>}` - call as player to save their current position uder <name>
+
 `/function tphub/interface/quickdelete {"i":<i>}` - call to remove <i>'th stored position
 
 ### potion of jet
