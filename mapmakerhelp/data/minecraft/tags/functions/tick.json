@@ -8,6 +8,7 @@
         "dynamiclight:ontick",
         "jetpotion:ontick",
         "mobileshop:ontick",
-        "lockpick:ontick"
+        "lockpick:ontick",
+        "alternatehealth:ontick"
     ]
 }
