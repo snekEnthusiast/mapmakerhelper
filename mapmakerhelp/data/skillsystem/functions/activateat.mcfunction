@@ -1,0 +1,1 @@
+$function skillsystem:activateskill with storage skillstorage skilllist[$(i)]

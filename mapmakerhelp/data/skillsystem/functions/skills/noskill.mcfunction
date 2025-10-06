@@ -1,0 +1,1 @@
+scoreboard players set @p skillsystem.skillcooldown 10

@@ -187,3 +187,7 @@ Experimental and disabled by default. When enabled would implement a new food sy
 #### Notes
 
 Eating **any** food will grant the same amount of health. tHis can be changed by adding different advancements leading to different reward functions and adjusting their respective consumed_item lists
+
+### Skill System (in waiting)
+
+Unworkable in it's current state in 1.20.2. The code could be used in 1.21.4

@@ -1,0 +1,1 @@
+scoreboard players remove @a[scores={skillsystem.skillcooldown=1..}] skillsystem.skillcooldown 1

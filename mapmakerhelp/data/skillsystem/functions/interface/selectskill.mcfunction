@@ -1,0 +1,1 @@
+$scoreboard players operation @p skillsystem.playermapping = $(skillnum) skillsystem.namemapping

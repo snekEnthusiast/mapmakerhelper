@@ -1,0 +1,1 @@
+$function skillsystem:skills/$(name)
