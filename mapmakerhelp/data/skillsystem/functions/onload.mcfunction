@@ -11,4 +11,4 @@ scoreboard players set skillsystem.noskill skillsystem.namemapping 0
 #skill cooldown in ticks
 scoreboard objectives add skillsystem.skillcooldown dummy
 #skill storage
-data modify storage skillstorage skilllist[0] set value {"name":"noskill"}
+execute unless data storage skillstorage skilllist run data modify storage skillstorage skilllist set value [{"name":"noskill"}]
