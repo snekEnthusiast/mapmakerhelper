@@ -7,6 +7,7 @@
         "upgrades:onload",
         "jetpotion:onload",
         "mobileshop:onload",
-        "lockpick:onload"
+        "lockpick:onload",
+        "tphub:onload"
     ]
 }
