@@ -6,7 +6,6 @@
         "throwables:ontick",
         "upgrades:ontick",
         "dynamiclight:ontick",
-        "jetpotion:ontick",
         "mobileshop:ontick",
         "lockpick:ontick",
         "alternatehealth:ontick"
