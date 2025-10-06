@@ -7,7 +7,6 @@
         "upgrades:ontick",
         "dynamiclight:ontick",
         "mobileshop:ontick",
-        "lockpick:ontick",
-        "alternatehealth:ontick"
+        "lockpick:ontick"
     ]
 }

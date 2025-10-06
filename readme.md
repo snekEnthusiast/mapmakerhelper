@@ -4,7 +4,9 @@ This datapack was created for use in map creation, currently for minecraft versi
 
 When using features in map creation it is recommended to only call the functions in `<namespace>/interface`
 
-Features are in separate folders (namespaces), to disable a feature simply rename it's folder to `<name>_disabled`. Do NOT disable the `common` and `minecraft` namespaces.
+Features are in separate folders (namespaces). To disable a feature rename it's folder to `<name>_disabled`, as well as go to the `tick` and `load` `minecraft/tags/functions/` file and remove the feature's associated entries in the `"values"` lists. Do NOT disable the `common` and `minecraft` namespaces.
+
+When enabling a feature add the `ontick` and `onload` functions to their respective files and do not add other functions
 
 Only the waypoint system requires 1.20.2 (more specifically, it's macro system), everything else was made in 1.20.1 and probably works in previous versions as well. The shield requires 1.19.4.
 
